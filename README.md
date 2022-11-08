@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brunerabh
-- 👀 I’m interested in Front End / Full Stack
-- 🌱 I’m currently learning Javascript - HTML -CSS -React Js - Next Js - Node Js
+- 👀 I’m interested in Software Engineer developer
+- 🌱 I’m currently learning Javascript - HTML -CSS -React Js - Java
 - 💞️ I’m looking to collaborate on web site
 - 📫 How to reach me +55 (31) 99453-1505 - brunoamoedo@hotmail.com
 
